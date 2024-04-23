@@ -1,2 +1,3 @@
-# halzCV
-Repo ini saya gunakan untuk tempat kebutuhan CV di tugas Mata Kuliah Pemrograman Web
+# halz11
+ini branch dari main, buat ltihan pw ajasih
+udah ya gitu aja,
